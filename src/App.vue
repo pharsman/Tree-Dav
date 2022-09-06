@@ -23,7 +23,6 @@ const sport = async () => {
 }
 
 const datas = ref('')
-const menabde = ref('')
 sport()
 
 </script>
