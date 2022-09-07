@@ -80,6 +80,7 @@
     text-transform: none;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
+    position: ab;
 
     &[sport="badminton"]:before {
         content: "\e800";
@@ -258,7 +259,6 @@
     display: inline-block;
     vertical-align: middle;
     width: 24px;
-    height: 24px;
     background-image: url("./images/flags.png");
     background-repeat: no-repeat;
     background-position: 100px 0;
